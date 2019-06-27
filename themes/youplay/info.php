@@ -3,9 +3,9 @@ $themeName = 'YouPlay';
 
 $themeFolder = 'youplay';
 
-$themeAuthor = '松果商城';
+$themeAuthor = '花月学院';
 
-$themeAuthorUrl = 'https://www.pineal.cn/';
+$themeAuthorUrl = 'http://hy.huayuexh.com';
 
 $themeVirsion = '1.0';
 ?>
